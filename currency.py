@@ -55,27 +55,3 @@ for num in y:
     sum = sum + flag
 
 print(f"Minumum number of coin = {sum}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
